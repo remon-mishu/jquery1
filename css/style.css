@@ -1,0 +1,19 @@
+/* font integration */
+@font-face {
+  src: url(../fonts/playfair-display/PlayfairDisplay-Regular.otf);
+  font-family: PlayfairDisplay-Regular;
+}
+@font-face {
+  src: url(../fonts/ubuntu/Ubuntu-L.ttf);
+  font-family: Ubuntu-L;
+}
+/* Common part starts */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.h1{
+  background-color: #000;
+  color: #fff;
+}
